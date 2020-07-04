@@ -1,10 +1,10 @@
 {
-  "name": "react-express-heroku",
+  "name": "runtopiaa",
   "version": "1.0.0",
   "main": "server/server.js",
   "repository": {},
   "license": "MIT",
-  "homepage": "https://react-express-heroku.herokuapp.com",
+  "homepage": "https://runtopiaa.herokuapp.com",
   "engines": {
     "node": "6.9.1"
   },
