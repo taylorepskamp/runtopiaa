@@ -1,8 +1,3 @@
-# 💫 ReactJS + NodeJS Express on Heroku
-A **create-react-app** as a client and an **express** as a server, on **Heroku**, made simple
-
-## Instruction
-Create a new NodeJS app on Heroku, clone or fork this repository, connect the Heroku app to GitHub repository using the Deploy tab and have fun with [ReactJS] and [Express]!
-
-[ReactJS]: https://github.com/facebook/react/
-[Express]: https://github.com/expressjs/express/
+# ReactJS + NodeJS Express + Nedb on Heroku
+## About
+This app calculates a fitness score similar using heartrate data from recorded Fitbit activities. It stores the data using Nedb.
