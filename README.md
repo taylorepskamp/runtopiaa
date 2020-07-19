@@ -5,11 +5,11 @@ This app draws inpiration from Strava's relative effort chart (a paid user featu
 
 ## Challenges:
 
-Understanding which database integration to use.
+- Understanding which database integration to use.
 
-Organizing the package.json files for easy dpeloyment on Heroku.
+- Organizing the package.json files for easy dpeloyment on Heroku.
 
-Structuring the flow of data from the fitbit api to the database, then back to the front end.
+- Structuring the flow of data from the fitbit api to the database, then back to the front end.
 
 ## Future Features:
 
