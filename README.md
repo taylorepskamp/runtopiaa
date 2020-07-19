@@ -1,6 +1,6 @@
 # Runtopia
 
-This app uses the fitbit API to store and chart your weekly fitness levels over time as well as provide recommendations regarding your current level.
+This app uses the fitbit API to store and chart your weekly fitness levels over time as well as provide recommendations regarding your training plan.
 
 ## Stack
 
